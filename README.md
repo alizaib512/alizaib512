@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate Mobile App developer & Software Architect</h3>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/itsalimalik rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-ac5d6c54-c081-4631-867b-33f803e4768f' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >itsalimalik</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hello, I'm Ali, an experienced iOS App Developer with a track record of over 5 years. I specialize in Swift, SwiftUI, Objective-C, and Flutter for both Android and iOS. My passion for mobile app development drives me to deliver exceptional results that cater to your needs. Let's work together to turn your app ideas into reality. Your satisfaction is my commitment.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-ac5d6c54-c081-4631-867b-33f803e4768f' src='https://widgets.fiverr.com/api/v1/seller/itsalimalik?widget_id=ac5d6c54-c081-4631-867b-33f803e4768f' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
