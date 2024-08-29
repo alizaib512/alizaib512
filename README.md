@@ -4,11 +4,6 @@
 </h1>
 <h3 align="center">A Passionate Mobile App Developer & Solution Architect</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alizaib512&label=Profile%20views&color=0e75b6&style=flat" alt="alizaib512" />
-</p>
-
----
 
 ### 🛠️ Languages and Tools:
 <p align="center">
