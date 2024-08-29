@@ -64,9 +64,5 @@
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alizaib512/alizaib512/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
